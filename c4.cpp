@@ -5,9 +5,9 @@ class vehicle
 	public:
 		vehicle()
 		{
-      			cout<<"220130318021"<<endl;
-      			cout<<"Lila Neev"<<endl;
-			    cout<<"This is vehicle"<<endl;
+      			cout<<"Enrollment no.220130318021"<<endl;
+			cout<<"Name: Neev Lila"<<endl;
+		    	cout<<"This is vehicle"<<endl;
 		}
 };
 class car
